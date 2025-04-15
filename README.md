@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Nathan! 👋
+
+- ✨ I'm working on transforming how software is built by creating developer tools that leverage Generative AI to significantly increase developer productivity and software quality. ✨
 
 <!--
 **nathanjones/nathanjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
